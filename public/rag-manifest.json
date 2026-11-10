@@ -1,0 +1,7 @@
+{
+  "hash": "0fc705171cc79b24",
+  "model": "google-genai/gemini-embedding-001",
+  "dim": 3072,
+  "count": 82,
+  "builtAt": "2026-07-13T10:08:45.222Z"
+}
